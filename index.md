@@ -77,6 +77,18 @@ I have research experience in vision-language-action model adaptation, imitation
 
 **《机器人》 · Third Author**
 
+<figure class="project-figure">
+  <img
+    class="project-image"
+    src="./assets/img/图片1.png"
+    alt="Taxonomy of tactile perception methods for stable robotic grasping"
+    loading="lazy"
+  >
+  <figcaption>
+    Tactile perception and data-driven methods for stable robotic grasping.
+  </figcaption>
+</figure>
+
 - Systematically reviewed tactile sensing technologies and data-driven algorithms for stable robotic grasping.
 - Analyzed the mechanisms and performance characteristics of mainstream tactile sensors.
 - Summarized adaptive grasping pipelines based on **contact inference, state estimation, and instability recovery**.
