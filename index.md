@@ -43,7 +43,18 @@ I have research experience in vision-language-action model adaptation, imitation
 **Neurocomputing · JCR Q1 · Impact Factor 6.7 · Accept with Minor Revision · Co-first Author**
 
 [Project Page](https://qianli-1118.github.io/NeuroSPS.github.io/)
-
+<figure class="project-figure">
+  <a href="https://qianli-1118.github.io/NeuroSPS.github.io/">
+    <img
+      class="project-image"
+      src="./assets/img/Figure_1.png"
+      alt="Overview of the NeuroSPS robot imitation learning framework"
+    >
+  </a>
+  <figcaption>
+    Overview of the NeuroSPS robot imitation learning framework.
+  </figcaption>
+</figure>
 - Developed the **NeuroSPS** framework to address error accumulation and insufficient robustness against disturbances in robot imitation-learning policies.
 - Proposed the **SWR downsampling algorithm**, reducing the computational complexity of trajectory downsampling from \(O(n^2)\) to \(O(kn)\).
 - Processed a 1,500-frame simulation trajectory in only **7–8 seconds**, achieving a speedup of more than **1,000×** over the conventional AWE method.
