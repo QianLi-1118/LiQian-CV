@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## <i class="fa-solid fa-user section-icon"></i> About Me
 
 I am **Qian Li (李倩)**, an undergraduate student majoring in **Process Equipment and Control Engineering** at **Jiangnan University**, a Project 211 and Double First-Class university. I expect to receive my B.Eng. degree in June 2027.
 
@@ -10,21 +10,21 @@ I currently have a GPA of **3.57/4.0** and rank **3rd out of 70 students (Top 5%
 
 I have research experience in vision-language-action model adaptation, imitation learning, diffusion-policy-based robot control, visual-tactile robotic grasping, and low-human-involvement self-evolving robotic systems.
 
-## Research Interests
+## <i class="fa-solid fa-microscope section-icon"></i> Research Interests
 
 - **Embodied Intelligence and Robot Learning:** vision-language-action models, imitation learning, diffusion policies, and end-to-end robot policy learning
 - **Robotic Manipulation:** dexterous manipulation, mobile manipulation, bimanual coordination, and robot grasping
 - **Multimodal Perception:** visual-tactile perception, vision-language models, and multimodal robot decision-making
 - **Self-Evolving Robotic Systems:** autonomous error detection, corrective feedback, lifelong learning, and low-human-in-the-loop adaptation
 
-## News
+## <i class="fa-solid fa-bullhorn section-icon"></i> News
 
 - **[Latest]** Our work **NeuroSPS** received an *Accept with Minor Revision* decision from *Neurocomputing*.
 - **[Selected]** Won the **National First Prize** in the 17th Process Equipment Practice and Innovation Competition.
 - **[Selected]** Participated in developing the **Chariot** mobile-manipulation data collection system and applying for a national invention patent.
 - **[Selected]** Won national awards in multiple robotics and intelligent manufacturing competitions.
 
-## Education
+## <i class="fa-solid fa-graduation-cap section-icon"></i> Education
 
 ### Jiangnan University
 
@@ -36,7 +36,7 @@ I have research experience in vision-language-action model adaptation, imitation
 - **Selected Coursework:** Principles of Machinery (95), Mechanical Design (97), Theoretical Mechanics (98), Probability Theory (95)
 - **Language Qualifications:** CET-4 and CET-6
 
-## Research Experience
+## <i class="fa-solid fa-robot section-icon"></i> Research Experience
 
 ### NeuroSPS: An Efficient Framework for Robot Imitation Learning
 
@@ -82,7 +82,7 @@ I have research experience in vision-language-action model adaptation, imitation
 - Developed a closed-loop autonomous evolution workflow consisting of **execution, monitoring, correction, memory accumulation, and retraining**.
 - Responsible for **VLA-Adapter deployment**, VLM monitoring-module deployment, prompt design, performance evaluation, CLIP-based visual matching, and VLM-related harness development.
 
-## Competition Awards
+## <i class="fa-solid fa-trophy section-icon"></i> Competition Awards
 
 - **National First Prize**, 17th Process Equipment Practice and Innovation Competition, Undergraduate Division — *Core Member*
 - **National Third Prize**, 5th Jiangsu College Intelligent Robot Creative Competition, Home-Robot Physical Track — *Team Leader*
@@ -91,7 +91,7 @@ I have research experience in vision-language-action model adaptation, imitation
 - **Honorable Mention (H Award)**, Mathematical Contest in Modeling — *Modeler and Paper Writer*
 - **Innovative Work**, 3rd National College Student Mechanics + X Innovation Practice Symposium — *Team Leader*
 
-## Honors and Scholarships
+## <i class="fa-solid fa-medal section-icon"></i> Honors and Scholarships
 
 - University Second-Class Comprehensive Scholarship
 - Dexin Inspirational Scholarship
@@ -101,7 +101,7 @@ I have research experience in vision-language-action model adaptation, imitation
 - Outstanding Social Practice Team Leader
 - Outstanding Student Officer of Zhishan College
 
-## Technical Skills
+## <i class="fa-solid fa-code section-icon"></i> Technical Skills
 
 - **Programming:** Python, Lua, MATLAB
 - **Deep Learning:** PyTorch, model pretraining, LoRA fine-tuning, and VLA model reproduction
