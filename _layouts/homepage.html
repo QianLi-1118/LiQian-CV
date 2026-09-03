@@ -36,6 +36,33 @@
 
   </head>
   <body>
+    <nav class="top-nav" aria-label="Main navigation">
+    <div class="top-nav-inner">
+
+      <a class="top-nav-brand" href="./">
+        <i class="fa-solid fa-atom"></i>
+        Qian Li
+      </a>
+
+      <div class="top-nav-links">
+        <a class="top-nav-link" href="#about">About</a>
+        <a class="top-nav-link" href="#interests">Interests</a>
+        <a class="top-nav-link" href="#news">News</a>
+        <a class="top-nav-link" href="#education">Education</a>
+        <a class="top-nav-link" href="#research">Research</a>
+        <a class="top-nav-link" href="#awards">Awards</a>
+        <a class="top-nav-link" href="#skills">Skills</a>
+
+        {% if site.cv_link %}
+        <a class="top-nav-link nav-cv" href="{{ site.cv_link }}">
+          <i class="fa-solid fa-file-pdf"></i>
+          CV
+        </a>
+        {% endif %}
+      </div>
+
+    </div>
+  </nav>
     <div class="wrapper">
       <header>
         
