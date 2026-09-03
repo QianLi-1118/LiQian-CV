@@ -38,7 +38,7 @@ I have research experience in vision-language-action model adaptation, imitation
 
 ## <i class="fa-solid fa-robot section-icon"></i> Research Experience
 
-### NeuroSPS: An Efficient Framework for Robot Imitation Learning
+### NeuroSPS: A Sensorimotor-Inspired Policy for Semantic, Proprioceptive, and Smooth Robotic Manipulation
 
 **Neurocomputing · JCR Q1 · Impact Factor 6.7 · Accept with Minor Revision · Co-first Author**
 
